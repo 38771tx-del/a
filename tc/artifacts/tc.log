@@ -1,0 +1,738 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(523,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1129,5): warning MSB8027: Two or more files with the name of explorer_textures.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ext\dicons\explorer_textures.cpp, src\features\explorer\texture\explorer_textures.cpp.
+  clipper.engine.cpp
+  clipper.offset.cpp
+  clipper.rectclip.cpp
+  explorer_textures.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'ext/dicons/explorer_textures.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'ext/dicons/explorer_textures.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'ext/dicons/explorer_textures.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  imgui_addons.cpp
+C:\Users\god\Downloads\tc\tc\ext\imgui\addons\imgui_addons.cpp(269,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_freetype.cpp
+  texteditor.cpp
+  bodyparts.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/cache/bodyparts/bodyparts.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/cache/bodyparts/bodyparts.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/cache/bodyparts/bodyparts.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  cache.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/cache/cache.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/cache/cache.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/cache/cache.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  custom_entities.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/cache/custom_entities/custom_entities.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/cache/custom_entities/custom_entities.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/cache/custom_entities/custom_entities.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+C:\Users\god\Downloads\tc\tc\src\cache\custom_entities\custom_entities.cpp(235,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  aimbot.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/aimbot/aimbot.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/aimbot/aimbot.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/aimbot/aimbot.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+C:\Users\god\Downloads\tc\tc\src\features\aimbot\aimbot.cpp(233,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\god\Downloads\tc\tc\src\features\aimbot\aimbot.cpp(237,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\god\Downloads\tc\tc\src\features\aimbot\aimbot.cpp(241,55): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  console_login.cpp
+  avatarmanager.cpp
+C:\Users\god\Downloads\tc\tc\src\features\avatarmanager\avatarmanager.cpp(9,9): warning C4005: 'min': macro redefinition
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(197,9):
+      see previous definition of 'min'
+  
+C:\Users\god\Downloads\tc\tc\src\features\avatarmanager\avatarmanager.cpp(424,42): warning C4101: 'e': unreferenced local variable
+  Compiling...
+  decompiler.cpp
+C:\Users\god\Downloads\tc\tc\src\features\explorer\bytecode\bytecode.hpp(93,78): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+  (compiling source file 'src/features/explorer/decompiler/decompiler.cpp')
+  
+C:\Users\god\Downloads\tc\tc\src\features\explorer\bytecode\bytecode.hpp(110,81): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+  (compiling source file 'src/features/explorer/decompiler/decompiler.cpp')
+  
+C:\Users\god\Downloads\tc\tc\src\features\explorer\decompiler\decompiler.cpp(74,11): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+  explorer_textures.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/explorer/texture/explorer_textures.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/explorer/texture/explorer_textures.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/explorer/texture/explorer_textures.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  clocktime.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/lighting/clocktime/clocktime.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/lighting/clocktime/clocktime.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/lighting/clocktime/clocktime.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  skybox.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/lighting/skybox/skybox.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/lighting/skybox/skybox.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/lighting/skybox/skybox.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  fly.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/movement/fly/fly.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/movement/fly/fly.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/movement/fly/fly.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  movement.cpp
+  speed.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/movement/speed/speed.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/movement/speed/speed.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/movement/speed/speed.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  tickrate.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/movement/tickrate/tickrate.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/movement/tickrate/tickrate.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/movement/tickrate/tickrate.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  hitbox_expander.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/hbe/hitbox_expander.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/hbe/hitbox_expander.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/hbe/hitbox_expander.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+C:\Users\god\Downloads\tc\tc\src\features\rage\hbe\hitbox_expander.cpp(157,34): warning C4101: 'e': unreferenced local variable
+C:\Users\god\Downloads\tc\tc\src\features\rage\hbe\hitbox_expander.cpp(165,32): warning C4101: 'e': unreferenced local variable
+  hitsounds.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/hitsound/hitsounds.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/hitsound/hitsounds.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/hitsound/hitsounds.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  hittracers.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/hittracers/hittracers.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/hittracers/hittracers.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/hittracers/hittracers.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  headless.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/exploits/headless.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/exploits/headless.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/exploits/headless.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  korblox.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/exploits/korblox.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/exploits/korblox.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/exploits/korblox.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  noclip.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/noclip/noclip.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/noclip/noclip.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/noclip/noclip.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+C:\Users\god\Downloads\tc\tc\src\features\rage\noclip\noclip.cpp(60,35): warning C4101: 'e': unreferenced local variable
+C:\Users\god\Downloads\tc\tc\src\features\rage\noclip\noclip.cpp(69,32): warning C4101: 'e': unreferenced local variable
+  orbit.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/orbit/orbit.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/orbit/orbit.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/orbit/orbit.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  rapidfire.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/rapidfire/rapidfire.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/rapidfire/rapidfire.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/rapidfire/rapidfire.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  spin360.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/spin360/spin360.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/spin360/spin360.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/rage/spin360/spin360.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  silentaim.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/silentaim/silentaim.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/silentaim/silentaim.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/silentaim/silentaim.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  esp.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/esp/esp.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/esp/esp.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/esp/esp.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\xutility(462,85): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\xutility(462,85): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\xutility(462,85): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\xutility(462,85): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\xutility(462,85): warning C4244:         ]
+  (compiling source file 'src/features/esp/esp.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\xutility(462,85):
+      the template instantiation context (the oldest one first) is
+          C:\Users\god\Downloads\tc\tc\src\features\esp\esp.cpp(948,22):
+          see reference to function template instantiation 'ImVec2 &std::vector<ImVec2,std::allocator<ImVec2>>::emplace_back<int,int>(int &&,int &&)' being compiled
+              C:\Users\god\Downloads\tc\tc\src\features\esp\esp.cpp(948,34):
+              see the first reference to 'std::vector<ImVec2,std::allocator<ImVec2>>::emplace_back' in 'draw_hitbox_3d'
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\vector(924,24):
+          see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<int,int>(int &&,int &&)' being compiled
+          with
+          [
+              _Ty=ImVec2
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\vector(845,20):
+          see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<int,int>(int &&,int &&)' being compiled
+          with
+          [
+              _Ty=ImVec2
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\vector(863,27):
+          see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int,int>(_Alloc &,_Objty *const ,int &&,int &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<ImVec2>,
+              _Ty=ImVec2,
+              _Objty=ImVec2
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(730,14):
+          see reference to function template instantiation '_Ty *std::construct_at<_Objty,int,int>(_Ty *const ,int &&,int &&) noexcept(<expr>)' being compiled
+          with
+          [
+              _Ty=ImVec2,
+              _Objty=ImVec2
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\xutility(463,90): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\xutility(463,90): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\xutility(463,90): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\xutility(463,90): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\xutility(463,90): warning C4244:         ]
+  (compiling source file 'src/features/esp/esp.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\xutility(463,90):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\vector(863,27):
+          see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int,int>(_Alloc &,_Objty *const ,int &&,int &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<ImVec2>,
+              _Ty=ImVec2,
+              _Objty=ImVec2
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(730,14):
+          see reference to function template instantiation '_Ty *std::construct_at<_Objty,int,int>(_Ty *const ,int &&,int &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=ImVec2,
+              _Objty=ImVec2
+          ]
+  
+  meshparser.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/esp/parser/meshparser.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/esp/parser/meshparser.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/esp/parser/meshparser.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  Compiling...
+  explorer.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/explorer/explorer.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/explorer/explorer.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/explorer/explorer.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  exposure.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/lighting/exposure/exposure.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/lighting/exposure/exposure.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/lighting/exposure/exposure.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  fog.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/lighting/fog/fog.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/lighting/fog/fog.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/lighting/fog/fog.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  console.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/menu/console/console.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/menu/console/console.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/menu/console/console.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  lp_material.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/material/lp_material.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/material/lp_material.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/material/lp_material.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  menu.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/menu/menu.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/menu/menu.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/menu/menu.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+C:\Users\god\Downloads\tc\tc\src\menu\menu.cpp(227,172): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\god\Downloads\tc\tc\src\menu\menu.cpp(287,184): warning C4390: ';': empty controlled statement found; is this the intent?
+  streamproof.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/menu/streamproof/streamproof.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/menu/streamproof/streamproof.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/menu/streamproof/streamproof.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  config.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/config/config.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/config/config.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/features/config/config.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  auth.cpp
+  utils.cpp
+  antidebug.cpp
+  game.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/game/game.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/game/game.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/game/game.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  rescan.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/game/rescan/rescan.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/game/rescan/rescan.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/game/rescan/rescan.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  main.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/main.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/main.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/main.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  memory.cpp
+C:\Users\god\Downloads\tc\tc\src\memory\memory.cpp(23,30): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\god\Downloads\tc\tc\src\memory\memory.cpp(10,16): warning C4244: 'return': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\god\Downloads\tc\tc\src\memory\memory.cpp(30,12): warning C4244: 'return': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\god\Downloads\tc\tc\src\memory\memory.cpp(95,111): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+  keybind.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/menu/keybind/keybind.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/menu/keybind/keybind.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/menu/keybind/keybind.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  main_api.cpp
+C:\Users\god\Downloads\tc\tc\src\render\3d\main_api.cpp(108,36): warning C4101: 'e': unreferenced local variable
+C:\Users\god\Downloads\tc\tc\src\render\3d\main_api.cpp(204,36): warning C4101: 'e': unreferenced local variable
+C:\Users\god\Downloads\tc\tc\src\render\3d\main_api.cpp(229,28): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\god\Downloads\tc\tc\src\render\3d\main_api.cpp(229,50): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\god\Downloads\tc\tc\src\render\3d\main_api.cpp(229,76): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  mtl_parser.cpp
+  obj_parser.cpp
+  texture_cache.cpp
+  Compiling...
+  render.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/render/render.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/render/render.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/render/render.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  texture.cpp
+  sdk.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/sdk/sdk.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/sdk/sdk.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/sdk/sdk.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+  stb_image_impl.cpp
+  wallcheck.cpp
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9): warning C4099: 'rbx::instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/wallcheck/wallcheck.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(48,9):
+      see declaration of 'rbx::instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9): warning C4099: 'rbx::model_instance_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/wallcheck/wallcheck.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(63,9):
+      see declaration of 'rbx::model_instance_t'
+  
+C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9): warning C4099: 'rbx::primitive_t': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/wallcheck/wallcheck.cpp')
+      C:\Users\god\Downloads\tc\tc\src\sdk\sdk.h(85,9):
+      see declaration of 'rbx::primitive_t'
+  
+C:\Users\god\Downloads\tc\artifacts\explorer_textures.obj : warning LNK4042: object specified more than once; extras ignored
+LINK : fatal error LNK1104: cannot open file 'atls.lib'

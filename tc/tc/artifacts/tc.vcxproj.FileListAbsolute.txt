@@ -1,0 +1,8 @@
+C:\Users\god\Downloads\tc\tc\build\libcurl.dll
+C:\Users\god\Downloads\tc\tc\build\zlib1.dll
+C:\Users\god\Downloads\tc\tc\build\freetype.dll
+C:\Users\god\Downloads\tc\tc\build\bz2.dll
+C:\Users\god\Downloads\tc\tc\build\libpng16.dll
+C:\Users\god\Downloads\tc\tc\build\brotlidec.dll
+C:\Users\god\Downloads\tc\tc\build\brotlicommon.dll
+C:\Users\god\Downloads\tc\tc\artifacts\tc.vcxproj.Up2Date
